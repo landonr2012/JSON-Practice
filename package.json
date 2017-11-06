@@ -1,0 +1,23 @@
+{
+  "name": "json-practice",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "dependencies": {
+    "lodash": "^4.17.4"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/landonr2012/JSON-Practice.git"
+  },
+  "author": "Landon Rice",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/landonr2012/JSON-Practice/issues"
+  },
+  "homepage": "https://github.com/landonr2012/JSON-Practice#readme"
+}
